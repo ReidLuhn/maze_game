@@ -1,0 +1,87 @@
+go south
+take key
+go north
+use key
+go east
+take sword
+examine clue
+go north
+use sword
+use sword
+use sword
+use sword
+go east
+jump
+take meat
+take armor
+go south
+take healing potion
+take dynamite
+use sword
+use sword
+use sword
+use sword
+use sword
+use sword
+drink healing potion
+take caltrops
+go north
+go west
+go south
+go west
+go south
+use dynamite
+go east
+examine door
+examine gory simplicity
+take pick axe
+use pick axe
+teeth
+go south
+take map
+examine map
+take healing potion
+drink healing potion
+go east
+take bowling ball
+take rug
+take sapphire
+go west
+use sapphire
+go west
+drop meat
+go south
+use sword
+use sword
+use sword
+use sword
+use sword
+use sword
+use sword
+use sword
+use sword
+take minor healing potion
+drink minor healing potion
+take magic key
+go north
+go east
+go north
+go west
+go north
+use magic key
+go west
+examine door
+shoes
+go north
+take elven greatsword
+drop sword
+take book
+go east
+take holy hand grenade
+examine holy hand grenade
+take gold key
+go west
+use gold key
+go west
+use holy hand grenade
+take treasure
