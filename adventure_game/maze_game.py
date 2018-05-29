@@ -25,6 +25,8 @@ from colorama import init
 init()
 
 
+
+
 # Player Inventory
 player_inventory = {
     'torch': 1,
